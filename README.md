@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jarpula+Nirjala;Electronics+and+Communication+Engineering+Student;Indian+Institute+of+Information+Technology,+Surat;Building+skills,+projects+and+my+future+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jarpula+Nirjala;ECE+Student+@+IIIT+Surat;Building+Projects+%7C+Learning+Everyday+🚀" />
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0AFF99"/>
+<img src="https://komarev.com/ghpvc/?username=ui22ec34&style=for-the-badge&color=0AFF99"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0AFF99"/>
+<a href="https://github.com/ui22ec34?tab=followers">
+  <img src="https://img.shields.io/github/followers/ui22ec34?style=for-the-badge&logo=github&color=0AFF99"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=stars">
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=FFD700"/>
+<a href="https://github.com/ui22ec34?tab=stars">
+  <img src="https://img.shields.io/github/stars/ui22ec34?style=for-the-badge&logo=github&color=FFD700"/>
 </a>
 
 </div>
@@ -27,11 +27,11 @@
 <tr>
 <td width="65%">
 
-- 🎓 **Electronics and Communication Engineering**
+- 🎓 **B.Tech – Electronics & Communication Engineering**
 - 🏫 **Indian Institute of Information Technology, Surat**
-- 💡 **Passionate about learning, problem solving, and building useful things**
-- 💻 **Interested in coding, development, and technology**
-- 🚀 **Always improving one step at a time**
+- 💡 Passionate about **coding, development & problem solving**
+- 🚀 Focused on building **real-world projects**
+- 📈 Continuously learning and improving
 
 </td>
 <td width="35%" align="center">
@@ -45,14 +45,13 @@
 
 ---
 
-<h2 align="center">🎯 My Focus</h2>
+<h2 align="center">🚀 What I'm Working On</h2>
 
 <div align="center">
 
-<p>
-I like learning new technologies, solving problems, and creating clean, practical, and useful projects.
-I am especially interested in growing my skills in coding, development, and electronics-related applications.
-</p>
+✔ Improving DSA & problem solving  
+✔ Building development + ML based projects  
+✔ Exploring new technologies  
 
 </div>
 
@@ -76,8 +75,9 @@ I am especially interested in growing my skills in coding, development, and elec
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ui22ec34&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ui22ec34&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -87,7 +87,7 @@ I am especially interested in growing my skills in coding, development, and elec
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ui22ec34&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -115,7 +115,7 @@ I am especially interested in growing my skills in coding, development, and elec
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting my profile!
 
 </div>
 
