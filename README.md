@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jarpula+Nirjala;ECE+Student+@+IIIT+Surat;AI+%7C+Full+Stack+Developer;Building+Real+World+Projects+🚀;Always+Learning+New+Things+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jarpula+Nirjala;ECE+Student+@+IIIT+Surat;AI+%7C+Full+Stack+Developer;Building+Real+World+Projects+🚀;Always+Learning+New+Things+✨" />
 
 </div>
 
