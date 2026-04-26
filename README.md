@@ -73,14 +73,54 @@
 
 ---
 
+<h2 align="center">🛠 Tech Stack</h2>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,mongodb,mysql,git,github,linux,vscode,arduino,matlab" />
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<!-- Programming Languages -->
+<h3>💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,matlab" />
+
+<br/><br/>
+
+<!-- Frontend -->
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+<br/><br/>
+
+<!-- Backend -->
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/><br/>
+
+<!-- Database -->
+<h3>🗄️ Database</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br/><br/>
+
+<!-- Tools -->
+<h3>🛠 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+<br/><br/>
+
+<!-- Hardware -->
+<h3>🔌 Hardware</h3>
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+<br/><br/>
+
+<!-- Special / AI -->
+<h3>🧠 AI & ML</h3>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-0A192F?style=for-the-badge"/>
 
 </div>
-
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
