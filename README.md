@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+<h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Jarpula-Nirjala&style=for-the-badge&color=00F5D4" />
