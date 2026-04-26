@@ -53,27 +53,38 @@
 
 <div align="center">
 
-<!-- Top Row (Best Projects) -->
+<table>
+<tr>
+<td style="padding: 10px 25px;">
 <a href="https://github.com/Jarpula-Nirjala/anemia-detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=anemia-detection&theme=tokyonight&hide_border=true"/>
 </a>
+</td>
 
+<td style="padding: 10px 25px;">
 <a href="https://github.com/Jarpula-Nirjala/ai-job-agent">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=ai-job-agent&theme=tokyonight&hide_border=true"/>
 </a>
+</td>
+</tr>
 
-<br/><br/>
-
-<!-- Second Row -->
+<tr>
+<td style="padding: 5px 25px;">
 <a href="https://github.com/Jarpula-Nirjala/FOODMINE-REACT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=FOODMINE-REACT&theme=tokyonight&hide_border=true"/>
 </a>
+</td>
 
+<td style="padding: 5px 25px;">
 <a href="https://github.com/Jarpula-Nirjala/Virtual_Assistant">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=Virtual_Assistant&theme=tokyonight&hide_border=true"/>
 </a>
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 
