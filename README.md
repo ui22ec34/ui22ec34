@@ -73,11 +73,11 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,mongodb,mysql,git,github,linux,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,mongodb,mysql,git,github,linux,vscode,arduino,matlab" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 </div>
 
