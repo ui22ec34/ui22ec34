@@ -1,42 +1,45 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jarpula+Nirjala;ECE+Student+@+IIIT+Surat;Building+Projects+%7C+Learning+Everyday+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jarpula+Nirjala;ECE+Student+@+IIIT+Surat;AI+%7C+Full+Stack+Developer;Building+Real+World+Projects+🚀;Always+Learning+New+Things+✨" />
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Jarpula-Nirjala&style=for-the-badge&color=0AFF99"/>
+<img src="https://komarev.com/ghpvc/?username=Jarpula-Nirjala&style=for-the-badge&color=00F5D4" />
 
 <a href="https://github.com/Jarpula-Nirjala?tab=followers">
-  <img src="https://img.shields.io/github/followers/Jarpula-Nirjala?style=for-the-badge&logo=github&color=0AFF99"/>
+  <img src="https://img.shields.io/github/followers/Jarpula-Nirjala?style=for-the-badge&logo=github&color=00F5D4"/>
 </a>
 
 <a href="https://github.com/Jarpula-Nirjala?tab=stars">
-  <img src="https://img.shields.io/github/stars/Jarpula-Nirjala?style=for-the-badge&logo=github&color=FFD700"/>
+  <img src="https://img.shields.io/github/stars/Jarpula-Nirjala?style=for-the-badge&logo=github&color=FFD60A"/>
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">✨ About Me</h2>
+<h2 align="center">🧊 About Me</h2>
 
 <div align="center">
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
-* 🎓 **B.Tech – Electronics & Communication Engineering**
-* 🏫 **Indian Institute of Information Technology, Surat**
-* 💡 Passionate about **coding, development & problem solving**
-* 🚀 Focused on building **real-world projects**
-* 📈 Continuously learning and improving
+🎓 B.Tech – Electronics & Communication Engineering
+🏫 IIIT Surat
+
+💡 Passionate about **AI, Development & Problem Solving**
+🚀 Building **real-world impactful projects**
+📈 Constantly learning & improving
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -45,39 +48,47 @@
 
 ---
 
-<h2 align="center">🚀 What I'm Working On</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-✔ Improving DSA & problem solving
-✔ Building development + ML based projects
-✔ Exploring new technologies
+<a href="https://github.com/Jarpula-Nirjala/food-ordering-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=food-ordering-app&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Jarpula-Nirjala/Library_management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=Library_management&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Jarpula-Nirjala/Virtual_Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=Virtual_Assistant&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Jarpula-Nirjala/anemia-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=anemia-detection&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 ---
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,git,github,linux" />
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql" />
-<br/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,mongodb,mysql,git,github,linux,vscode,arduino" />
 
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jarpula-Nirjala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jarpula-Nirjala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarpula-Nirjala&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarpula-Nirjala&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -93,7 +104,17 @@
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center">📈 Activity Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jarpula-Nirjala&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
 
@@ -115,9 +136,11 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ✨ Code. Learn. Build. Repeat.
 
 </div>
+
+---
 
 <div align="center">
 
