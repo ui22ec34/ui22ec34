@@ -26,21 +26,31 @@
 <div align="center">
 <table>
 <tr>
-<td width="60%">
 
-🎓 B.Tech – Electronics & Communication Engineering
-🏫 IIIT Surat
+<td width="60%" align="left">
 
-💡 Passionate about **AI, Development & Problem Solving**
-🚀 Building **real-world impactful projects**
-📈 Constantly learning & improving
+<ul>
+
+<li>🎓 <b>B.Tech – Electronics & Communication Engineering</b></li>
+
+<li>🏫 <b>Indian Institute of Information Technology, Surat</b></li>
+
+<li>💡 Passionate about <b>AI, Development & Problem Solving</b></li>
+
+<li>🚀 Building <b>real-world impactful projects</b></li>
+
+<li>📈 Constantly learning & improving</li>
+
+</ul>
 
 </td>
+
 <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 </td>
+
 </tr>
 </table>
 </div>
