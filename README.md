@@ -51,53 +51,80 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
+<div align="center" style="width:100%;">
 
-<a href="https://github.com/Jarpula-Nirjala/NeuroFuseNet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=NeuroFuseNet&theme=tokyonight&hide_border=true" />
+<table style="width:100%; border-spacing:20px;">
+
+<!-- 🔥 ROW 1 (HIGHLIGHT) -->
+<tr>
+<td style="width:50%; padding:20px; border-radius:12px; background:linear-gradient(135deg,#0f172a,#1e293b);">
+
+<a href="https://github.com/Jarpula-Nirjala/alzheimer-parkinson-classifier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=alzheimer-parkinson-classifier&theme=tokyonight&hide_border=true"/>
 </a>
+
+<br/>
+
+<b style="font-size:18px;">🧠 Brain MRI Disease Classifier</b><br/>
+<sub style="color:#94a3b8;">
+97.84% accuracy • Deep Learning • Medical AI • Grad-CAM
+</sub>
+
+</td>
+
+<td style="width:50%; padding:20px; border-radius:12px; background:linear-gradient(135deg,#0f172a,#1e293b);">
 
 <a href="https://github.com/Jarpula-Nirjala/anemia-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=anemia-detection&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=anemia-detection&theme=tokyonight&hide_border=true"/>
 </a>
 
-</p>
+<br/>
 
-<p align="center">
-<b>🧠 Brain MRI Disease Classifier</b> &nbsp;&nbsp;&nbsp;&nbsp;
-<b>🩸 Anemia Detection System</b>
-</p>
-
-<p align="center">
-97.84% accuracy • Deep Learning • Medical AI • Grad-CAM &nbsp;&nbsp;&nbsp;&nbsp;
+<b style="font-size:18px;">🩸 Anemia Detection System</b><br/>
+<sub style="color:#94a3b8;">
 ML-based diagnosis using image analysis
-</p>
+</sub>
 
----
+</td>
+</tr>
 
-<p align="center">
-
+<!-- ⚡ ROW 2 -->
+<tr>
+<td style="padding:15px;">
 <a href="https://github.com/Jarpula-Nirjala/ai-job-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=ai-job-agent&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=ai-job-agent&theme=tokyonight&hide_border=true"/>
 </a>
+</td>
 
+<td style="padding:15px;">
 <a href="https://github.com/Jarpula-Nirjala/FOODMINE-REACT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=FOODMINE-REACT&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=FOODMINE-REACT&theme=tokyonight&hide_border=true"/>
 </a>
+</td>
+</tr>
 
-</p>
-
-<p align="center">
-
+<!-- ⚡ ROW 3 -->
+<tr>
+<td style="padding:15px;">
 <a href="https://github.com/Jarpula-Nirjala/Virtual_Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=Virtual_Assistant&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=Virtual_Assistant&theme=tokyonight&hide_border=true"/>
 </a>
+</td>
 
+<td style="padding:15px;">
 <a href="https://github.com/Jarpula-Nirjala/Clinician-Testing-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=Clinician-Testing-Platform&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=Clinician-Testing-Platform&theme=tokyonight&hide_border=true"/>
 </a>
+</td>
+</tr>
 
-</p>
+</table>
+
+</div>
+
+
+
+
 ---
 
 
