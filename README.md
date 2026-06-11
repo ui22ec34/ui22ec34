@@ -59,7 +59,7 @@
 <tr>
 <td style="width:50%; padding:20px; border-radius:12px; background:linear-gradient(135deg,#0f172a,#1e293b);">
 
-<a href="https://github.com/Jarpula-Nirjala/alzheimer-parkinson-classifier">
+<a href="https://github.com/Jarpula-Nirjala/HybridDualNetPath">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jarpula-Nirjala&repo=alzheimer-parkinson-classifier&theme=tokyonight&hide_border=true"/>
 </a>
 
